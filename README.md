@@ -8,7 +8,7 @@ Neste momento temos o loop erro de colocar o { useNewUrlParser:  true } e pedir 
 <div align="center">
 <img src="https://64.media.tumblr.com/8c3afff4ab290e29860d60351db45a96/c3eca336f6720b09-eb/s250x400/c383a2a614e69f82e2e9eea27f6c968d65d2da17.gifv" width="460px" />
 </div>
-<div align="center">>
+<div align="center">
   <p>POOOOOR QUEEEE?</p>
 </div>
 
