@@ -6,7 +6,7 @@ Esta é a API IcameatTasty. A API REST feita com amor, node.js, express e Mongoo
 
 Neste momento temos o loop erro de colocar o { useNewUrlParser:  true } e pedir parar passar  "pass option { useUnifiedTopology: true } to the MongoClient constructor." e vice versa, informações na rede dizem que poderia ser o path do mongodb que estivesse incorreto, mas neste caso não está...
 <div align="center">
-<img src="https://capricho.abril.com.br/wp-content/uploads/2019/12/giphy-gato-computador-pesquisa.gif" width="400px" />
+<img src="https://capricho.abril.com.br/wp-content/uploads/2019/12/giphy-gato-computador-pesquisa.gif" width="460px" />
 <p>POOOOOR QUEEEE?</p>
 </div>
 
