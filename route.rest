@@ -1,1 +1,15 @@
 GET http://localhost:3001/foods
+
+###
+
+GET http://localhost:3001/foods/13
+
+###
+
+POST http://localhost:3001/foods
+Content-Type: : application/json
+
+{
+    "name": "Person",
+    "orderChannel": "web"
+}
